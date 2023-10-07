@@ -113,7 +113,7 @@
   display: inline-block;
   width: 100%;
   height: 0em;
-  padding: 2vw;
+  padding: 23px;
   font-family: 'Roboto', sans-serif;
   color: aliceblue;
   
@@ -151,11 +151,32 @@
   padding-top: 0vw;
 }
 
-
-
+@media (max-width: 42em) {
+  .ssidebarnavlink {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    height: 0em;
+    padding: 17px;
+    font-family: 'Roboto', sans-serif;
+    color: aliceblue;
+    
+  }
+}
 @media (min-width: 42em) {
   .slayoutcontent {
      margin-left: 4em;
+  }
+  
+  .ssidebarnavlink {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    height: 0em;
+    padding: 18px;
+    font-family: 'Roboto', sans-serif;
+    color: aliceblue;
+    
   }
   
   
@@ -180,6 +201,17 @@
 @media (min-width: 68em) {
   .slayoutcontent {
      margin-left: 15em;
+  }
+  
+  .ssidebarnavlink {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    height: 0em;
+    padding: 22px;
+    font-family: 'Roboto', sans-serif;
+    color: aliceblue;
+    
   }
   
   
