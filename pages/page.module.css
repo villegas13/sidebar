@@ -345,7 +345,7 @@ box-shadow: 0px 9px 10px -9px rgba(0,0,0,0.75);
 }
 
 .logo{ 
-  background-image: url('logo.png');
+  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/logo.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -366,7 +366,7 @@ box-shadow: 0px 9px 10px -9px rgba(0,0,0,0.75);
 
 
  .principal{ 
-  background-image: url('https://sidebar-puce-one.vercel.app/_next/static/media/front2.fdccecf0.png');
+  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/front.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -383,7 +383,7 @@ box-shadow: 0px 9px 10px -9px rgba(0,0,0,0.75);
  }
 
  .logoheader{
-  background-image: url('logo.png');
+  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/logo.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -402,7 +402,7 @@ box-shadow: 0px 9px 10px -9px rgba(0,0,0,0.75);
 
 
  .red1{
-  background-image: url('https://sidebar-puce-one.vercel.app/_next/static/media/red1.f328eddd.png');
+  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/red1.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -419,7 +419,7 @@ box-shadow: 0px 9px 10px -9px rgba(0,0,0,0.75);
 
  
  .red2{
-  background-image: url('red2.png');
+  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/red2.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -436,7 +436,7 @@ box-shadow: 0px 9px 10px -9px rgba(0,0,0,0.75);
 
  
  .red3{
-  background-image: url('red3.png');
+  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/red3.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -457,7 +457,7 @@ box-shadow: 0px 9px 10px -9px rgba(0,0,0,0.75);
  }
  
  .red4{
-  background-image: url('red4.png');
+  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/red4.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;  
