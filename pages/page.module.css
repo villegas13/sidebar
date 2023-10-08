@@ -40,6 +40,7 @@
   min-height: 100vh;  
   background-color: rgba(221, 225, 226, .7);
   margin-top: -1.2vw;
+  
 }
 
 .slayout__content {
@@ -237,6 +238,7 @@
 }
 
 
+
 }
 
 @media (min-width: 68em) {
@@ -343,7 +345,7 @@ box-shadow: 0px 9px 10px -9px rgba(0,0,0,0.75);
 }
 
 .logo{ 
-  background-image: url('logo.png');
+  background-image: url('./logo.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -362,3 +364,114 @@ box-shadow: 0px 9px 10px -9px rgba(0,0,0,0.75);
 
 
 
+
+ .principal{ 
+  background-image: url('./front2.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 101.5%;
+  padding-left: 0vw;
+  margin-left: -1vw;
+  height: 70vh;  
+  display: flex;      
+  flex-direction: column;
+  flex-wrap:wrap;
+  
+  
+ }
+
+ .logoheader{
+  background-image: url('./logo.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  width: 200px;
+  height: 80px;  
+  display: flex;    
+  justify-content: right;
+  flex-direction: column;
+  flex-wrap:wrap;
+  
+  position: relative;
+  right: 4vw;
+  top: 1vw;
+ }
+
+
+ .red1{
+  background-image: url('./red1.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  width: 50px;
+  height: 50px;  
+  display: flex;    
+  justify-content: right;
+  flex-direction: row;
+  flex-wrap:wrap;
+  
+  
+ }
+
+ 
+ .red2{
+  background-image: url('./red2.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  width: 50px;
+  height: 50px;  
+  display: flex;    
+  justify-content: right;
+  flex-direction: row;
+  flex-wrap:wrap;
+  
+ 
+ }
+
+ 
+ .red3{
+  background-image: url('./red3.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  width: 50px;
+  height: 50px;  
+  display: flex;    
+  justify-content: right;
+  flex-direction: row;
+  flex-wrap:wrap;
+  
+  
+ }
+
+ .redesheader{
+  display: flex;
+  width: 70%;
+ }
+ 
+ .red4{
+  background-image: url('./red4.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;  
+  width: 50px;
+  height: 50px;  
+  display: flex;    
+  justify-content: right;
+  flex-direction: row;
+  flex-wrap:wrap;  
+ 
+ }
+
+ .headerprinc{
+  height: 6vw;
+  display: flex;
+  justify-content: space-between;
+ }

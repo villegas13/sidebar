@@ -7,7 +7,7 @@ export default class extends Component {
     return (
         <div className={styles.barrasup}>
         
-    <Link href="/" >
+    <Link href="/inicio" >
       <div className={styles.logo}></div>
       </Link>
     </div>
