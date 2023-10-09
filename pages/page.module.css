@@ -155,6 +155,103 @@
   padding-top: 0vw;
 }
 
+
+.logoheader{
+  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/logo.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  width: 15.18vw;
+  height: 6.07vw;  
+  display: flex;    
+  justify-content: right;
+  flex-direction: column;
+  flex-wrap:wrap;
+  
+  position: relative;
+  right: 4vw;
+  top: 1vw;
+ }
+
+ 
+ .red1{
+  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/red1.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  
+  width: 2em;
+  height: 2em; 
+  display: flex;    
+  justify-content: right;
+  flex-direction: row;
+  flex-wrap:wrap;
+  
+  
+ }
+
+ 
+ .red2{
+  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/red2.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  
+  width: 2em;
+  height: 2em;
+  display: flex;    
+  justify-content: right;
+  flex-direction: row;
+  flex-wrap:wrap;
+  
+ 
+ }
+
+ 
+ .red3{
+  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/red3.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  width: 2em;
+  height: 2em;
+  display: flex;    
+  justify-content: right;
+  flex-direction: row;
+  flex-wrap:wrap;
+  
+  
+ }
+
+ .redesheader{
+  display: flex;
+  width: 70%;
+ }
+ 
+ .red4{
+  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/red4.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;  
+  width: 2em;
+  height: 2em;  
+  display: flex;    
+  justify-content: right;
+  flex-direction: row;
+  flex-wrap:wrap;  
+ 
+ }
+
+ .headerprinc{
+  height: 6vw;
+  display: flex;
+  justify-content: space-between;
+ }
+
 @media (max-width: 42em) {
   .ssidebarnavlink {
     position: relative;
@@ -188,6 +285,126 @@
   padding-top: 13vw;
 }
 
+
+.principal{ 
+  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/front2.png');
+  background-size: contain!important;
+  background-position: center!important;
+  background-repeat: no-repeat!important;
+  background-position: top!important;
+  width: 100%!important;
+  padding-left: 0vw!important;
+  height: 63vh!important;  
+  display: flex!important;      
+  flex-direction: column!important;
+  flex-wrap:wrap!important;
+  position: relative!important;
+  top: 70px!important;
+  
+  
+ }
+
+ .headerprinc {
+  height: 6vw;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+
+.logoheader{
+  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/logo.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  width: 24vw;
+  height: 7vw;  
+  display: flex;    
+  justify-content: right;
+  flex-direction: column;
+  flex-wrap:wrap;
+  
+  position: relative;
+  right: 4vw;
+  top: 1vw;
+ }
+
+ 
+ .red1{
+  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/red1.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  
+  width: 1.5em;
+  height: 1.5em; 
+  display: flex;    
+  justify-content: right;
+  flex-direction: row;
+  flex-wrap:wrap;
+  
+  
+ }
+
+ 
+ .red2{
+  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/red2.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  width: 1.5em;
+  height: 1.5em; 
+  display: flex;    
+  justify-content: right;
+  flex-direction: row;
+  flex-wrap:wrap;
+  
+ 
+ }
+
+ 
+ .red3{
+  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/red3.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 1.5em;
+  height: 1.5em; 
+  display: flex;    
+  justify-content: right;
+  flex-direction: row;
+  flex-wrap:wrap;
+  
+  
+ }
+
+ .redesheader{
+  display: flex;
+  width: 70%;
+ }
+ 
+ .red4{
+  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/red4.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat; 
+  width: 1.5em;
+  height: 1.5em; 
+  display: flex;    
+  justify-content: right;
+  flex-direction: row;
+  flex-wrap:wrap;  
+ 
+ }
+
+ .headerprinc{
+  height: 6vw;
+  display: flex;
+  justify-content: space-between;
+ }
 
 }
 @media (min-width: 42em) {
@@ -237,6 +454,54 @@
   
 }
 
+.barrasup{
+  display: flex;
+}
+
+
+.principal{ 
+  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/front2.png');
+  background-size: contain!important;
+  background-position: center!important;
+  background-repeat: no-repeat!important;
+  background-position: top!important;
+  width: 103%!important;
+  padding-left: 0vw!important;
+  height: 63vh!important;  
+  display: flex!important;      
+  flex-direction: column!important;
+  flex-wrap:wrap!important;
+  position: relative!important;
+  top: 80px!important;
+  
+  
+ }
+
+ .headerprinc {
+  height: 6vw;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+
+.logoheader{
+  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/logo.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  width: 22vw;
+  height: 7vw;  
+  display: flex;    
+  justify-content: right;
+  flex-direction: column;
+  flex-wrap:wrap;
+  
+  position: relative;
+  right: 4vw;
+  top: 1vw;
+ }
 
 
 }
@@ -296,6 +561,54 @@
   display: none;
 }
 
+
+.principal{ 
+  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/front2.png');
+  background-size: contain!important;
+  background-position: center!important;
+  background-repeat: no-repeat!important;
+  background-position: top!important;
+  width: 103%!important;
+  padding-left: 0vw!important;
+  height: 63vh!important;  
+  display: flex!important;      
+  flex-direction: column!important;
+  flex-wrap:wrap!important;
+  position: relative!important;
+  top: 75px!important;
+  
+  
+ }
+
+ .headerprinc {
+  height: 6vw;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+
+
+.logoheader{
+  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/logo.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  width: 22vw;
+  height: 7vw;  
+  display: flex;    
+  justify-content: right;
+  flex-direction: column;
+  flex-wrap:wrap;
+  
+  position: relative;
+  right: 4vw;
+  top: 1vw;
+ }
+
+
+
 }
 
 .tituloprinc{
@@ -326,7 +639,7 @@
   background-color: #ffffff;
   
   width: 99%;
-  
+  display: flex;
   position: fixed;
   top: 0;
   z-index: 0;
@@ -349,7 +662,7 @@ box-shadow: 0px 9px 10px -9px rgba(0,0,0,0.75);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
-  background-position: right;
+  background-position: center right;
   width: 130px;
   height: 40px;  
   display: flex;    
@@ -357,9 +670,10 @@ box-shadow: 0px 9px 10px -9px rgba(0,0,0,0.75);
   flex-direction: column;
   flex-wrap:wrap;
   float: right;
-  position: relative;
-  right: 4vw;
-  top: 2vw;
+  align-items: center;
+  position: fixed;
+  top: 10px;
+  right: 10px;
  }
 
 
@@ -371,109 +685,16 @@ box-shadow: 0px 9px 10px -9px rgba(0,0,0,0.75);
   background-position: center;
   background-repeat: no-repeat;
   background-position: top;
-  width: 101.5%;
+  width: 103%;
   padding-left: 0vw;
-  margin-left: -1vw;
+  margin-left: -3vw;
   height: 63vh;  
   display: flex;      
   flex-direction: column;
   flex-wrap:wrap;
   position: relative;
-  top: 20px;
+  top: 30px;
   
   
  }
 
- .logoheader{
-  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/logo.png');
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat;
-  
-  width: 200px;
-  height: 80px;  
-  display: flex;    
-  justify-content: right;
-  flex-direction: column;
-  flex-wrap:wrap;
-  
-  position: relative;
-  right: 4vw;
-  top: 1vw;
- }
-
-
- .red1{
-  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/red1.png');
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat;
-  
-  width: 50px;
-  height: 50px;  
-  display: flex;    
-  justify-content: right;
-  flex-direction: row;
-  flex-wrap:wrap;
-  
-  
- }
-
- 
- .red2{
-  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/red2.png');
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat;
-  
-  width: 50px;
-  height: 50px;  
-  display: flex;    
-  justify-content: right;
-  flex-direction: row;
-  flex-wrap:wrap;
-  
- 
- }
-
- 
- .red3{
-  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/red3.png');
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat;
-  
-  width: 50px;
-  height: 50px;  
-  display: flex;    
-  justify-content: right;
-  flex-direction: row;
-  flex-wrap:wrap;
-  
-  
- }
-
- .redesheader{
-  display: flex;
-  width: 70%;
- }
- 
- .red4{
-  background-image: url('https://raw.githubusercontent.com/villegas13/sidebar/master/pages/red4.png');
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat;  
-  width: 50px;
-  height: 50px;  
-  display: flex;    
-  justify-content: right;
-  flex-direction: row;
-  flex-wrap:wrap;  
- 
- }
-
- .headerprinc{
-  height: 6vw;
-  display: flex;
-  justify-content: space-between;
- }
