@@ -490,9 +490,8 @@
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
-  
-  width: 22vw;
-  height: 7vw;  
+  width: 18vw;
+  height: 6vw;  
   display: flex;    
   justify-content: right;
   flex-direction: column;
@@ -595,8 +594,8 @@
   background-position: center;
   background-repeat: no-repeat;
   
-  width: 22vw;
-  height: 7vw;  
+  width: 18vw;
+  height: 6vw;  
   display: flex;    
   justify-content: right;
   flex-direction: column;
